@@ -1,4 +1,8 @@
-from langchain_openai import OpenAI
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
