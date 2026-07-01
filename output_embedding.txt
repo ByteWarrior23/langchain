@@ -1,0 +1,3 @@
+Text: what is number of union territories in India, also name them
+Embedding dimension: 384
+First 5 values: [0.07852379232645035, -0.0682448148727417, -0.04036086052656174, -0.03609253838658333, -0.061966437846422195]
